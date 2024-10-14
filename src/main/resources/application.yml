@@ -1,0 +1,6 @@
+project:
+  nickname: Spring Api
+  environment: main
+
+server:
+  port: 8081
